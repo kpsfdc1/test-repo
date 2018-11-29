@@ -1,3 +1,6 @@
 class cis
 {
+  public stativ void main()
+  {
+  }
 } 
